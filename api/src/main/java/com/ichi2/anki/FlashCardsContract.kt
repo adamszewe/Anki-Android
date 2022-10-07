@@ -85,8 +85,8 @@ import android.net.Uri
  * ```
  */
 public object FlashCardsContract {
-    public const val AUTHORITY: String = "com.ichi2.anki.flashcards"
-    public const val READ_WRITE_PERMISSION: String = "com.ichi2.anki.permission.READ_WRITE_DATABASE"
+    public const val AUTHORITY: String = "com.ichi2.anki.dev.flashcards"
+    public const val READ_WRITE_PERMISSION: String = "com.ichi2.anki.dev.permission.READ_WRITE_DATABASE"
 
     /**
      * A content:// style uri to the authority for the flash card provider
